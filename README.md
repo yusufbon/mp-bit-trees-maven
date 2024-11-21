@@ -2,20 +2,20 @@
 
 A mini-project exploring bit trees (a form of binary tree) and their use in translating between alphabets, particularly in translating to and from braille.
 
-Authors
+**Authors**
 
 * Your name here
 * Samuel A. Rebelsky (starter code)
 
-Acknowledgements
+**Acknowledgements**
 
 *
 *
 *
 
-Instructions for use
+**Instructions for use**
 
-_Please insert instructions here.__
+_Please insert instructions here._
 
 ---
 
