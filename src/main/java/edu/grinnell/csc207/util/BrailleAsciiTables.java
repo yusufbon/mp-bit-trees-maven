@@ -79,14 +79,14 @@ public class BrailleAsciiTables {
   /**
    *
    */
-  String toBraille(char letter) {
+  public String toBraille(char letter) {
     return "";  // STUB
   } // toBraille(char)
 
   /**
    *
    */
-  String toAscii(String bits) {
+  public String toAscii(String bits) {
     // Make sure we've loaded the braille-to-ASCII tree.
     if (null == b2aTree) {
       b2aTree = new BitTree(6);
@@ -104,7 +104,7 @@ public class BrailleAsciiTables {
   /**
    *
    */
-  String toUnicode(String bits) {
+  public String toUnicode(String bits) {
     return "";  // STUB
   } // toUnicode(String)
 } // BrailleAsciiTables
