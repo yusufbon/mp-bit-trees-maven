@@ -8,6 +8,7 @@ import edu.grinnell.csc207.util.BrailleAsciiTables;
  * Main class for Braille ASCII conversion.
  * This class processes command-line arguments to perform text translation
  * between ASCII, Braille, and Unicode formats based on the specified target.
+ * @author Bonsen Yusuf
  */
 public class BrailleASCII {
   // +------+--------------------------------------------------------
