@@ -4,7 +4,7 @@ A mini-project exploring bit trees (a form of binary tree) and their use in tran
 
 **Authors**
 
-* Your name here
+* Bonsen Yusuf
 * Samuel A. Rebelsky (starter code)
 
 **Acknowledgements**
