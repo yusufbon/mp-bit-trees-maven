@@ -9,7 +9,6 @@ A mini-project exploring bit trees (a form of binary tree) and their use in tran
 
 **Acknowledgements**
 
-* My mini-project 03
 * evening CS tutor (don't remember name)
 * https://rebelsky.cs.grinnell.edu/Courses/CSC207/2024Fa/readings/list-adts.html
 *
